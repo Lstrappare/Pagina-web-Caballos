@@ -1,29 +1,34 @@
-# Propuesta de Página Web sobre Skaters de la CDMX
---- 
-## Nombre del sitio web (Skate CDMX)
+# Propuesta de Página Web sobre Caballos
+
+**Presentado por:**
+Cisneros Valero José Manuel
+
 ---
+## Nombre del sitio web: Caballos México
+
+---
+
 ## Introducción
-La cultura del skate ha crecido considerablemente en la Ciudad de México (CDMX) en los últimos años. Este deporte no solo fomenta la actividad física, sino que también fortalece la comunidad juvenil, promoviendo valores como la camaradería, la perseverancia y la creatividad.
+La pasión por los caballos ha crecido considerablemente en México en los últimos años. Los caballos no solo representan una conexión con la naturaleza y los animales, sino que también juegan un papel importante en diversas actividades recreativas y terapéuticas.
 
 ## Objetivo de la Página
-Crear una página web estática dedicada a los skaters de la CDMX y todo lo relacionado con el skateboarding, con el objetivo de:
-- Promover la práctica del skateboarding entre los jóvenes. 📢
-- Proveer información útil sobre spots, eventos y tiendas especializadas. 🗺️
+Crear una página web de consulta dedicada a los amantes de los caballos en México y todo lo relacionado con el cuidado y la vida de estos magníficos animales, con el objetivo de:
+- Promover el bienestar y cuidado de los caballos. 📢
+- Proveer información útil sobre razas de caballos, eventos y consejos de cuidado. 🗺️
 
 ## Justificación
 
-### 1. Promoción de la Actividad Física
-El skateboarding es una excelente manera de motivar a los jóvenes a salir y mantenerse activos. En una era donde el sedentarismo y el uso excesivo de dispositivos electrónicos son preocupaciones crecientes, promover un deporte como el skate puede tener un impacto positivo significativo en la salud física y mental de los jóvenes. 🏃‍♂️
+### 1. Promoción del Bienestar Animal
+Fomentar el cuidado y el bienestar de los caballos es esencial para asegurar que estos animales vivan en condiciones óptimas. Proporcionar información sobre prácticas adecuadas de cuidado y manejo puede mejorar significativamente la calidad de vida de los caballos. 🐴
 
 ### 2. Información y Recursos
 La página ofrecerá información valiosa, como:
-- **Lugares para practicar**: Mapas y descripciones de los mejores spots para skate en la CDMX.
-- **Eventos y Competencias**: Calendario de eventos y competencias locales.
-- **Tiendas y Servicios**: Directorio de tiendas de skate y servicios relacionados.
-- **Seguridad y Normativas**: Consejos de seguridad y normativas locales para la práctica del skate.
+- **Razas de Caballos**: Descripciones detalladas de diferentes razas de caballos, sus características y cuidados específicos.
+- **Eventos y Ferias**: Calendario de eventos relacionados con los caballos.
+- **Consejos de Cuidado**: Información detallada sobre alimentación, salud y manejo de caballos.
 
-### 4. Accesibilidad y Facilidad de Uso
-Una página estática es fácil de mantener y accesible desde cualquier dispositivo con conexión a internet. Esto asegura que la información esté siempre disponible y actualizada para los usuarios.  📱
+### 3. Accesibilidad y Facilidad de Uso
+Una página web de consulta es fácil de mantener y accesible desde cualquier dispositivo con conexión a internet. Esto asegura que la información esté siempre disponible y actualizada para los usuarios. 📱
 
 ## Contenido de la Página
 
@@ -31,20 +36,20 @@ Una página estática es fácil de mantener y accesible desde cualquier disposit
 - Bienvenida e introducción al sitio.
 - Destacados de la semana (eventos, noticias, etc.).
 
-### 2. Spots 
-- Listado y mapa de lugares para practicar skate.
-- Descripciones y fotos de cada spot.
+### 2. Razas de Caballos 🐴
+- Listado de diferentes razas de caballos.
+- Descripciones y fotos de cada raza.
 
 ### 3. Eventos 📅
-- Calendario de próximos eventos y competencias.
+- Calendario de próximos eventos y ferias relacionadas con caballos.
 - Resúmenes y galerías de eventos pasados.
 
-### 4. Seguridad
-- Consejos de seguridad para skaters principiantes y avanzados.
-- Normativas locales y mejores prácticas.
+### 4. Consejos de Cuidado
+- Consejos sobre alimentación, salud y manejo de caballos.
+- Información sobre normativas locales y mejores prácticas.
 
 ## 🔚 Conclusión
-Una página web estática sobre skaters de la CDMX no solo promoverá el deporte y la actividad física entre los jóvenes, sino que también fortalecerá la comunidad y proporcionará recursos valiosos. Esperamos que esta propuesta sea bien recibida y podamos contribuir positivamente a la cultura del skate en nuestra ciudad.
+Una página web de consulta sobre caballos en México no solo promoverá el bienestar y el cuidado de los caballos, sino que también fortalecerá la comunidad y proporcionará recursos valiosos. Esperamos que esta propuesta sea bien recibida y podamos contribuir positivamente al cuidado y la cultura de los caballos en nuestro país.
 
 ¡Gracias por su atención!
 
@@ -53,5 +58,5 @@ Una página web estática sobre skaters de la CDMX no solo promoverá el deporte
 **Presentado por:**
 Cisneros Valero José Manuel
 Equipo Individual
-**Entregado el dia:**
-30/05/2024 
+**Entregado el día:**
+03/06/2024
